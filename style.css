@@ -1,0 +1,24 @@
+body{
+    background-color: aqua;
+    
+}
+
+#main{
+    width: 330px; height: 370px;
+    background-color: black;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 150px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+input{
+    width: 20%;
+    height: 60px; 
+    font-size: 25px; 
+    margin: 6px;}
+#textaria{
+    width: 95%; 
+    height: 50px; 
+    background-color: silver;
+}
